@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="233dp"
         android:layout_height="94dp"
-      
+        android:text="Android Application"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
